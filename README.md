@@ -3,12 +3,12 @@
 ## Overview:
 Analyze data from a csv containing metadata from 34,000+ organizations that have received funding from a fictitious investment firm, using Deep Neural Networks. The goal of the Deep Learning model is to classify the charities that successfully received funding.
 
-Problem Type: Classification
-Preprocess data: Scikit-learn’s OneHotEncoder
-Compile, train, evaluate model: TensorFlow API
-Optimize model: objective is to achieve a target predictive accuracy >75%
-#### Data Source: charity_data.csv
-#### Software: Python version 3.7.6, Jupyter Notebook 6.3.0
+**Problem Type:** Classification
+**Preprocess data:** Scikit-learn’s OneHotEncoder
+**Compile, train, evaluate model:** TensorFlow API
+**Optimize model:** objective is to achieve a target predictive accuracy >75%
+**Data Source:** charity_data.csv
+**Software:** Python version 3.7.6, Jupyter Notebook 6.3.0
 
 ## Results:
 ### Data Preprocessing
